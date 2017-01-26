@@ -1,7 +1,7 @@
 #Lending Club machine learning script
 import os, sys, math
 import pandas as pd
-os.chdir('C:\Users\Noble\Desktop\UNC\Data Analytics\LendingClub')
+os.chdir('*****\LendingClub')
 #raw = pd.read_csv("Cleaned_LoanStats_v2 - Rec Columns only.csv")
 raw = pd.read_csv("cleanedloan.csv")
 raw.convert_objects(convert_numeric=True)
