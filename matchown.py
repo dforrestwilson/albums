@@ -1,4 +1,5 @@
-#matches top owners of a given stock ticker
+#matches top owners of a given stock ticker using data from a downloaded bloomberg file of ownership. 
+#Helps to determine which institutions have strong cross-ownership of stocks within a given sector/industry
 
 def matcher():
 	import csv
