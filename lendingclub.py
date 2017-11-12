@@ -1,4 +1,5 @@
-#Lending Club machine learning script, analyze loans to predict whether or not loans will default
+#Lending Club machine learning script, analyze loans to predict whether or not loans will defaul
+#using historical data from the LendingClub website
 import os, sys, math
 import pandas as pd
 os.chdir('*****\LendingClub')
