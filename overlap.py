@@ -1,7 +1,7 @@
 import sys, os
 import pandas as pd
 
-#takes input formatted excel files and creates a list of the overlapping locations for each company, including competitors
+#takes input formatted excel files and creates a list of the overlapping coverage locations for internet service providers, including competitors
 #allows for a rudimentary mapping of ISP locations based upon metro overlap
 path = filepath specified by user
 listoffiles = listiterating(path)
